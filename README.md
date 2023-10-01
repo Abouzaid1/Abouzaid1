@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abouzaid</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="center" src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media" alt="abouzaid1" />
+<img align="center" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="abouzaid1" />
 - 🔭 I’m currently working on [once$tart](https://once-start-react-final-project.vercel.app/)
 
 - 🌱 I’m currently learning **React Native, Next JS**
