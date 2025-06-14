@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abouzaid</h1>
 <h3 align="center">A MERN stack developer from Egypt</h3>
 <img align="center" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="abouzaid1" />
-🔭 I’m currently working on MininetRemastered<br>👯 I’m looking to collaborate on MERN Stack projects<br>🤝 I’m looking for help with Frontend Applications (Mobile or Web)<br>🌱 I’m currently learning Nextjs 14<br>
+🔭 I’m currently working on MininetRemastered<br>👯 I’m looking to collaborate on MERN Stack projects<br>🤝 I’m looking for help with Frontend Applications (Mobile or Web)<br>🌱 I’m currently working with Nextjs 15<br>
 
 
 ## 🌐 Socials:
